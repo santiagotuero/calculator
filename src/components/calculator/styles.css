@@ -1,0 +1,14 @@
+.calculator-container {
+  height: 600px;
+  width: 400px;
+  padding: 14px;
+  border-radius: 20px;
+  background-color: #e4ebf0;
+}
+
+.row {
+  margin: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
